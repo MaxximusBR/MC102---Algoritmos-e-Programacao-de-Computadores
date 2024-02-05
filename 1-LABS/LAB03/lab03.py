@@ -1,0 +1,7 @@
+dist_AB = float(input())
+v_A = float(input())
+v_B = float(input())
+D = float(input())
+comp_B = float(input())
+print(format(D/(v_A)*60, '.2f'),"min")
+print(D/v_A < (dist_AB - D + comp_B/1000)/v_B)

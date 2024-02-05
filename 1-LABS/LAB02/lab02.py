@@ -1,0 +1,5 @@
+dist_AB = float(input())
+v_A = float(input())
+v_B = float(input())
+print(format(dist_AB/(v_A+v_B)*60, '.2f'),"min")
+print(format(dist_AB/(v_A+v_B)*v_A, '.2f'),"km")
