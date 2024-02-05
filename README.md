@@ -1,6 +1,7 @@
 ### Disciplina do Instituto de Computação da Universidade Estadual de Campinas - IC UNICAMP
 
 ### Ementa da Disciplina
+
 - Conceitos básicos de organização de computadores.
 - Construção de algoritmos e sua representação em pseudocódigo e linguagens de alto nível.
 - Desenvolvimento sistemático e implementação de programas.
@@ -8,6 +9,7 @@
 - Resolução de problemas
 
 ### Programa da Disciplina
+
 - Conceitos básicos de Organização de Computadores
 - Conceitos básicos sobre Algoritmos e Programação
 - Entrada e Saída de Dados
@@ -70,12 +72,14 @@
 - [Expressões Regulares](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula13.pdf)
 
 ### Materiais Didáticos Complementares
+
 - Panda - Cursos de Computação em Python (IME - USP):
   - [Aulas de Introdução à Computação em Python](https://panda.ime.usp.br/aulasPython/static/aulasPython/)
   - [Como Pensar Como um Cientista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/)
 - [Material Didático de MC102 (Marcio Pereira)](https://github.com/iviarcio/mc102)
 
 ### Listas de Exercícios
+
   - [Primeira Lista - Tipos, Variáveis, Operações Matemáticas e Comandos Condicionais](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista1.pdf)
   - [Segunda Lista - Comandos de Repetição](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista2.pdf)
   - [Terceira Lista - Lista e Tuplas](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista3.pdf)
@@ -84,6 +88,7 @@
   - [Sexta Lista - Recursão](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista6.pdf)
 
 ### Downloads
+
   - Reference Cards:
     - [Python (em inglês)](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/downloads/Python_Reference_Card.pdfL)
     - [Linux (em inglês)](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/downloads/Linux_Reference_Card.pdf)
