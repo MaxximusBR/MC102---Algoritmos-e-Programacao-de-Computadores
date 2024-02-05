@@ -1,91 +1,11 @@
-# Material Didático
-
-Os slides utilizados em sala de aula serão disponibilizados semanalmente, após as respectivas aulas.
-
-## Conteúdo Programático
-
-### Primeira Aula de Laboratório
-- Execução de Testes no repl.it
-- Aula Introdutória
-- Python Básico: Tipos, Variáveis, Operadores, Entrada e Saída
-- Comandos Condicionais
-- Comandos de Repetição
-- Listas e Tuplas
-- Dicionários
-- Strings
-- Funções
-- Objetos Multidimensionais
-- Algoritmos de Ordenação
-- Algoritmos de Busca
-- Arquivos
-- Recursão
-- Algoritmos de Ordenação Recursivos
-- Expressões Regulares
-
-### Materiais Didáticos Complementares
-- Panda - Cursos de Computação em Python (IME - USP):
-  - Aulas de Introdução à Computação em Python
-  - Como Pensar Como um Cientista da Computação
-- Material Didático de MC102 (Marcio Pereira)
-  - Listas de Exercícios
-    - Primeira Lista - Tipos, Variáveis, Operações Matemáticas e Comandos Condicionais
-    - Segunda Lista - Comandos de Repetição
-    - Terceira Lista - Lista e Tuplas
-    - Quarta Lista - Strings
-    - Quinta Lista - Funções
-    - Sexta Lista - Recursão
-  - Laboratórios
-    - Os laboratórios serão disponibilizados no SuSy.
-
-### Sites Recomendados
-- MC102 - Algoritmos e Programação de Computadores:
-  - [Site da Coordenação de MC102](URL)
-- Wikipédia (em português):
-  - Computador
-  - Linguagem de Programação C
-  - Ciência da Computação
-  - História da Computação
-  - Compilador x Interpretador
-  - Tabela ASCII
-  - Sistema Binário
-  - Linux
-  - Emacs
-  - Vim
-  - Guia de comandos para Linux/Unix
-- Competições de Programação:
-  - Olimpíada Brasileira de Informática
-  - Maratona de Programação
-  - UVa Online Judge - Contest Problem Set Archive
-  - URI Online Judge
-  - Spoj Brasil
-  - CodeChef
-  - Codeforces
-- Programação em Python:
-  - The Python Tutorial
-  - The Python Language Reference
-  - Python Programming Examples
-  - Python Tutorial for Beginners
-  - LearnPython.org
-- Jogos (Programming Games):
-  - Cargo-Bot (iPad)
-  - Robo Logic 2 HD - Lite (iPad)
-  - Light-Bot (iPhone/iPad)
-  - Light-Bot (Android)
-  - Hopscotch (iPhone/iPad)
-  - Swift Playgrounds (iPad)
-- Downloads
-  - Reference Cards:
-    - [Python (em inglês)](URL)
-    - [Linux (em inglês)](URL)
-    - [Emacs (em inglês)](URL)
-    - [Vim (em português)](URL)
+### Disciplina do Instituto de Computação da Universidade Estadual de Campinas - IC UNICAMP
 
 ### Ementa da Disciplina
 - Conceitos básicos de organização de computadores.
 - Construção de algoritmos e sua representação em pseudocódigo e linguagens de alto nível.
 - Desenvolvimento sistemático e implementação de programas.
 - Estruturação, depuração, testes e documentação de programas.
-- Resolução de problemas.
+- Resolução de problemas
 
 ### Programa da Disciplina
 - Conceitos básicos de Organização de Computadores
@@ -103,8 +23,72 @@ Os slides utilizados em sala de aula serão disponibilizados semanalmente, após
 - Recursão
 - Algoritmos Recursivos de Ordenação
 
-### Avaliação
-- Para critérios de avaliação, consulte o Plano de Desenvolvimento da Disciplina das Turmas Coordenadas de MC102.
+# Docente e Monitores
+
+**Professor:** [Zanoni Dias](https://www.ic.unicamp.br/~zanoni/)  
+- **Sala:** 23 (IC-1)  
+- **Email:** zanoni@ic.unicamp.br  
+
+**Monitores:**
+1. **PED - Doutorado:** Alexsandro Oliveira Alexandrino  
+   - **Email:** alexsandro@ic.unicamp.br
+
+2. **PED - Doutorado:** Ana Paula dos Santos Dantas  
+   - **Email:** ana.dantas@students.ic.unicamp.br
+
+3. **PED - Doutorado:** Klairton de Lima Brito  
+   - **Email:** klairton@ic.unicamp.br
+
+4. **PED - Mestrado:** Gabriel Henriques Siqueira  
+   - **Email:** gabriel.siqueira@students.ic.unicamp.br
+
+5. **PAD - Graduação:** Paulo Lucas Rodrigues Lacerda  
+   - **Email:** ra185487@students.ic.unicamp.br
+
+6. **PAD - Graduação:** Rodrigo Dutra De Freitas Cardoso  
+   - **Email:** ra205513@students.ic.unicamp.br
+
+
+## Conteúdo Programático
+
+- [Primeira Aula de Laboratório](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/lab00.pdf)
+- [Execução de Testes no repl.it](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/testador.pdf)
+- [Aula Introdutória](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula01.pdf)
+- [Python Básico: Tipos, Variáveis, Operadores, Entrada e Saída](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula02.pdf)
+- [Comandos Condicionais](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula03.pdf)
+- [Comandos de Repetição](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula04.pdf)
+- [Listas e Tuplas](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula05.pdf)
+- [Dicionários](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula06.pdf)
+- [Strings](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula07.pdf)
+- [Funções](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula08.pdf)
+- [Objetos Multidimensionais](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula09.pdf)
+- [Algoritmos de Ordenação](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula10.pdf)
+- [Algoritmos de Busca](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula11.pdf)
+- [Arquivos](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula12.pdf)
+- [Recursão](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula14.pdf)
+- [Algoritmos de Ordenação Recursivos](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula15.pdf)
+- [Expressões Regulares](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/aulas/aula13.pdf)
+
+### Materiais Didáticos Complementares
+- Panda - Cursos de Computação em Python (IME - USP):
+  - [Aulas de Introdução à Computação em Python](https://panda.ime.usp.br/aulasPython/static/aulasPython/)
+  - [Como Pensar Como um Cientista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/)
+- [Material Didático de MC102 (Marcio Pereira)](https://github.com/iviarcio/mc102)
+
+### Listas de Exercícios
+  - [Primeira Lista - Tipos, Variáveis, Operações Matemáticas e Comandos Condicionais](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista1.pdf)
+  - [Segunda Lista - Comandos de Repetição](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista2.pdf)
+  - [Terceira Lista - Lista e Tuplas](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista3.pdf)
+  - [Quarta Lista - Strings](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista4.pdf)
+  - [Quinta Lista - Funções](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista5.pdf)
+  - [Sexta Lista - Recursão](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/listas/lista6.pdf)
+
+### Downloads
+  - Reference Cards:
+    - [Python (em inglês)](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/downloads/Python_Reference_Card.pdfL)
+    - [Linux (em inglês)](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/downloads/Linux_Reference_Card.pdf)
+    - [Emacs (em inglês)](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/downloads/Emacs_Reference_Card.pdf)
+    - [Vim (em português)](https://www.ic.unicamp.br/~zanoni/teaching/mc102/2019-2s/downloads/Vim_Reference_Card.pdf)
 
 ### Observações
 - Não haverá provas ou laboratórios substitutivos.
@@ -114,9 +98,6 @@ Os slides utilizados em sala de aula serão disponibilizados semanalmente, após
 - As provas e o exame final serão realizados na sala de aula, no horário normal das aulas.
 - As notas serão divulgadas no site da disciplina até, no máximo, duas semanas após a realização dos mesmos.
 - Não será cobrada presença em sala de aula ou nos laboratórios.
-
-### Notas
-- Consulte as notas [aqui](URL).
 
 ### Datas Importantes
 - 01/08/2019 (quinta-feira): Início das aulas.
