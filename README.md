@@ -1,4 +1,4 @@
-### Disciplina do Instituto de Computação da Universidade Estadual de Campinas - IC UNICAMP
+### Instituto de Computação da Universidade Estadual de Campinas - IC UNICAMP
 
 ### Ementa da Disciplina
 
